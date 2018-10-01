@@ -16,3 +16,4 @@ bot.on('message', message => {
         message.reply("1, 2, 3, c'est bon !");
         console.log('test')
     }
+});
